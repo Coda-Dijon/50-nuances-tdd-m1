@@ -1,0 +1,22 @@
+[book]
+title = "50 nuances de T.D.D"
+authors = ["Yoan Thirion"]
+language = "fr"
+src = "."
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "coda"
+additional-css = ["theme/css/coda.css", "theme/css/presentation.css"]
+site-url = "/50-nuances-tdd-m1/"
+git-repository-url = "https://github.com/ythirion/50-nuances-tdd-m1"
+additional-js = ["js/mermaid.min.js", "js/mermaid-init.js", "js/presentation.js"]
+
+[output.html.search]
+enable = true
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[output.html.playground]
+editable = false
