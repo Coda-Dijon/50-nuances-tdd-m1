@@ -1,0 +1,25 @@
+01.tdd-inside-out/README.md
+  s_01e0ebae5f3848::t_bcb7b1c7eef273 1-402
+book.toml
+  s_01e0ebae5f3848::t_e86d9a2d497757 1-22
+theme/css/presentation.css
+  s_01e0ebae5f3848::t_7a77445fa4bdb8 1-169
+theme/index.hbs
+  s_01e0ebae5f3848::t_f736d59b0c25d7 1-372
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "44212670896130b1150796870a34f9e973d1a389",
+  "prompts": {},
+  "sessions": {
+    "s_01e0ebae5f3848": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "026bb5d5-8fdd-4dee-83f2-6fb33a6813de",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
