@@ -1,4 +1,8 @@
-![50 nuances de T.D.D](img/50-nuances-tdd.png)
+![50 nuances de T.D.D](public/50-nuances-tdd.webp)
+
+[![Publish Slides](https://github.com/Coda-Dijon/50-nuances-tdd-m1/actions/workflows/slides.yml/badge.svg)](https://github.com/Coda-Dijon/50-nuances-tdd-m1/actions/workflows/slides.yml)
+
+Les slides en ligne : **https://coda-dijon.github.io/50-nuances-tdd-m1**
 
 ## Objectifs pédagogiques
 - Expliquer les différences entre `T.D.D` et `B.D.D`
@@ -42,5 +46,7 @@ npm run build
 # Export PDF (nécessite playwright-chromium)
 npm run export
 ```
+
+Le déploiement sur GitHub Pages est fait par `.github/workflows/slides.yml` à chaque push sur `main`. L'URL du site (`SITE_URL`) et le dépôt des exercices (`VITE_REPO_URL`) y sont paramétrés : la base des slides est déduite de `SITE_URL`, et les encarts « Exercice » (composant `components/Exercise.vue`) pointent vers `VITE_REPO_URL`.
 
 En présentation : `→` / `Espace` pour avancer, `o` pour la vue d'ensemble, `p` pour le mode présentateur (notes et slide suivante).

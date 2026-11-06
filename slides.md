@@ -56,4 +56,8 @@ alt: Le personnage du cours assis sur un banc, une mallette à côté de lui, en
 src: ./01.tdd-inside-out/slides.md
 ---
 
+---
+layout: center
+---
+
 <img class="full" src="/end.webp" alt="Fin" />

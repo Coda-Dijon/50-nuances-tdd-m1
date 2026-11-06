@@ -302,7 +302,7 @@ Implémentez-le **en générant le code depuis son usage**.
 </div>
 </div>
 
-<div class="exercise"><span class="exercise__tag">Exercice</span><a href="https://github.com/ythirion/50-nuances-tdd-m1/tree/main/01.tdd-inside-out/exercices/bouchonnois">01.tdd-inside-out/exercices/bouchonnois</a></div>
+<Exercise path="01.tdd-inside-out/exercices/bouchonnois" />
 
 ---
 
@@ -369,7 +369,7 @@ Pratiquer le TDD **en mob programming**, avec des contraintes tirées au hasard 
 </div>
 </div>
 
-<div class="exercise"><span class="exercise__tag">Exercice</span><a href="https://github.com/ythirion/50-nuances-tdd-m1/tree/main/01.tdd-inside-out/exercices/xtrem-tdd">01.tdd-inside-out/exercices/xtrem-tdd</a></div>
+<Exercise path="01.tdd-inside-out/exercices/xtrem-tdd" />
 
 ---
 
@@ -386,7 +386,7 @@ Avant d'interroger la banque, détecter qu'un numéro de carte a été **mal sai
 
 Avant de coder : construisez votre **Example Mapping**. Puis laissez les tests faire émerger l'algorithme, avec une **double boucle**.
 
-<div class="exercise"><span class="exercise__tag">Exercice</span><a href="https://github.com/ythirion/50-nuances-tdd-m1/tree/main/01.tdd-inside-out/exercices/luhn">01.tdd-inside-out/exercices/luhn</a></div>
+<Exercise path="01.tdd-inside-out/exercices/luhn" />
 
 ---
 

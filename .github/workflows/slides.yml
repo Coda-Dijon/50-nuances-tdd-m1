@@ -9,6 +9,12 @@ concurrency:
   group: pages
   cancel-in-progress: false
 
+env:
+  # URL publique du site : la base des slides (/50-nuances-tdd-m1/) en est déduite
+  SITE_URL: https://coda-dijon.github.io/50-nuances-tdd-m1
+  # Dépôt vers lequel pointent les encarts « Exercice » des slides
+  VITE_REPO_URL: https://github.com/${{ github.repository }}
+
 jobs:
   build:
     name: Build slides
@@ -30,7 +36,10 @@ jobs:
         run: npm ci --ignore-scripts
 
       - name: Build slides
-        run: npm run build -- --base /${{ github.event.repository.name }}/
+        run: |
+          BASE_PATH="$(echo "$SITE_URL" | sed -E 's#^https?://[^/]+##; s#/*$##')/"
+          echo "Base : $BASE_PATH"
+          npm run build -- --base "$BASE_PATH"
 
       # Les URL des slides (/50-nuances-tdd-m1/12) doivent retomber sur l'app
       - name: Add SPA fallback
