@@ -1,5 +1,7 @@
-# mdBook output
-book/
+# Slidev
+.slidev/
+*-export.pdf
+exports/
 
 # Compiled class file
 *.class
