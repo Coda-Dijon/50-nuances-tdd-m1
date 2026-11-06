@@ -1,0 +1,61 @@
+.github/workflows/slides.yml
+  s_01e0ebae5f3848::t_f0da53ca6dc624 1-2,8-10,14,16-17,19-27,29-30,32-33,35-40,43,45,48,50-53
+.gitignore
+  s_01e0ebae5f3848::t_4c975e5f1b3a2b 1-4
+01.tdd-inside-out/exercices/luhn/step-by-step.md
+  s_01e0ebae5f3848::t_8d1a3477264cb9 17
+01.tdd-inside-out/exercices/xtrem-tdd/README.md
+  s_01e0ebae5f3848::t_588618062b24e2 45
+01.tdd-inside-out/exercices/xtrem-tdd/docs/concepts.md
+  s_01e0ebae5f3848::t_78a0bd31f40fdd 92
+01.tdd-inside-out/exercices/xtrem-tdd/docs/facilitation/11.acceptance-tests.md
+  s_01e0ebae5f3848::t_e59c3eca9261aa 9
+01.tdd-inside-out/exercices/xtrem-tdd/java/docs/11.acceptance-tests.md
+  s_01e0ebae5f3848::t_a54f4a74c00ad3 8
+01.tdd-inside-out/slides.md
+  s_01e0ebae5f3848::t_c56a7b2d121b07 1-15,17-32,35-47,51,53,55,57-63,67-83,85-90,94,96,98-99,101-105,107-115,117-118,122,124,126,128,132,134,136-140,144,146-153,155-161,165-167,169-178,182,184,186-195,199,201,203,207,209-211,213,217-231,233-240,244,246,248-255,258-269,273,275,277-280,284,286,288-293,295-305,309,311-321,324-339,342-345,349-367,369-372,376,378,380,382-387,389,393,395-408,411-424,428,430,432-436,440-442,445-457,460,464,466,468-470,472,474-477
+package-lock.json
+  s_01e0ebae5f3848::t_880c5662bbf252 1-9528,9532
+package.json
+  s_01e0ebae5f3848::t_56444812554c89 1-18
+setup/mermaid.ts
+  s_01e0ebae5f3848::t_ccf2d0ca287cf5 1-11
+theme/global-top.vue
+  s_01e0ebae5f3848::t_618f5b3f9f9fb7 1-23
+theme/layouts/center.vue
+  s_01e0ebae5f3848::t_45f45b5a29f236 1-11
+theme/layouts/cover.vue
+  s_01e0ebae5f3848::t_68162bc53615b3 1-17
+theme/layouts/default.vue
+  s_01e0ebae5f3848::t_092f9d3b22ef0e 1-9
+theme/layouts/section.vue
+  s_01e0ebae5f3848::t_4a508fdd99d245 1-14
+theme/layouts/statement.vue
+  s_01e0ebae5f3848::t_1088120b2c8f37 1-12
+theme/package.json
+  s_01e0ebae5f3848::t_4bd7bf19542c47 1-9
+theme/styles/components.css
+  s_01e0ebae5f3848::t_daff237746d62c 1-1995
+theme/styles/course.css
+  s_01e0ebae5f3848::t_9f09925d375046 1-36,38-39,42-45,48-49,52-77,80-81,84-85,88-89,92-161,163-167,170-173,176-181,184-185,188-189,192-193,196-198,201-202,205-207,210-212,215-225,228-229,232-236,239-246,249-254,257-260,263-266,269-273,276-278
+theme/styles/index.ts
+  s_01e0ebae5f3848::t_a35e86dab5d9dd 1-5
+theme/styles/signal.css
+  s_01e0ebae5f3848::t_47cec691bfbe3b 1-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "25bf5830522e07e6415ead3457ab5a7de21d6604",
+  "prompts": {},
+  "sessions": {
+    "s_01e0ebae5f3848": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "026bb5d5-8fdd-4dee-83f2-6fb33a6813de",
+        "model": "unknown"
+      },
+      "human_author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
