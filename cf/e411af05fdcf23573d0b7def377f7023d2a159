@@ -1,0 +1,21 @@
+README.md
+  s_0e641e2a36f693::t_10fa21316b7c78 22
+slides.md
+  s_0e641e2a36f693::t_9e729b98e9feca 48,56-59,64-83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cfe411af05fdcf23573d0b7def377f7023d2a159",
+  "prompts": {},
+  "sessions": {
+    "s_0e641e2a36f693": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f05e8afd-b8b8-483c-9f1c-cb976bc7109d",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
