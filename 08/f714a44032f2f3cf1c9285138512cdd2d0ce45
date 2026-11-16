@@ -1,0 +1,29 @@
+01.tdd-inside-out/exercices/luhn/step-by-step.md
+  s_01e0ebae5f3848::t_a6b539d358fb64 1-720
+01.tdd-inside-out/exercices/xtrem-tdd/README.md
+  s_01e0ebae5f3848::t_b88d66b141b1ce 1-50
+01.tdd-inside-out/exercices/xtrem-tdd/docs/concepts.md
+  s_01e0ebae5f3848::t_494246c6a800f5 1-94
+01.tdd-inside-out/exercices/xtrem-tdd/docs/facilitation/11.acceptance-tests.md
+  s_01e0ebae5f3848::t_66d2e1ef1db1b3 1-47
+01.tdd-inside-out/exercices/xtrem-tdd/java/docs/11.acceptance-tests.md
+  s_01e0ebae5f3848::t_dcfdd803089d73 1-1230
+01.tdd-inside-out/slides.md
+  s_01e0ebae5f3848::t_53fb2f27c2aac5 1-477
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "08f714a44032f2f3cf1c9285138512cdd2d0ce45",
+  "prompts": {},
+  "sessions": {
+    "s_01e0ebae5f3848": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "026bb5d5-8fdd-4dee-83f2-6fb33a6813de",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
