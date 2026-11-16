@@ -45,6 +45,7 @@ alt: Le personnage du cours assis sur un banc, une mallette à côté de lui, en
 
 | #  | Partie                     | Exercices                                    |
 |----|----------------------------|----------------------------------------------|
+| 00 | Les fondamentaux du test   | Carte mentale, Autopsie d'un test            |
 | 01 | TDD Inside-Out             | Le Bouchonnois, Xtrem TDD, Algorithme de Luhn |
 | 02 | Test && Commit \|\| Revert | Coda Buzz en TCR                             |
 | 03 | Behavior-Driven Development | Pierre Feuille Ciseaux                      |
@@ -53,7 +54,31 @@ alt: Le personnage du cours assis sur un banc, une mallette à côté de lui, en
 | 06 | Type-Driven Development    | Parser les EID                               |
 
 ---
+src: ./00.fondamentaux/slides.md
+---
+
+---
 src: ./01.tdd-inside-out/slides.md
+---
+
+---
+src: ./02.tcr/slides.md
+---
+
+---
+src: ./03.bdd/slides.md
+---
+
+---
+src: ./04.tdd-ia/slides.md
+---
+
+---
+src: ./05.tdd-outside-in/slides.md
+---
+
+---
+src: ./06.type-driven/slides.md
 ---
 
 ---

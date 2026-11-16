@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="money-problem.Domain/money-problem.Domain.csproj" />
-  <Project Path="money-problem.Tests/money-problem.Tests.csproj" />
-</Solution>
