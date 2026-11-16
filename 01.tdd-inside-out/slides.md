@@ -346,6 +346,23 @@ Déroulez ensuite les exemples un par un, jusqu'à répondre : **sont-ils brocou
 
 ---
 
+<span class="kicker">Pratique concrète · Kata</span>
+
+# L'algorithme de Luhn
+
+Avant d'interroger la banque, détecter qu'un numéro de carte a été **mal saisi**.
+
+1. En partant de la droite, **doubler un chiffre sur deux** (à partir de l'avant-dernier)
+2. Si le double dépasse 9, lui **soustraire 9**
+3. **Additionner** tous les chiffres
+4. Le numéro est valide si la somme est un **multiple de 10**
+
+Avant de coder : construisez votre **Example Mapping**. Puis laissez les tests faire émerger l'algorithme, avec une **double boucle**.
+
+<Exercise path="01.tdd-inside-out/exercices/luhn" />
+
+---
+
 <span class="kicker">Pratique concrète · Xtrem TDD</span>
 
 # Xtrem TDD : le Money Problem
@@ -370,23 +387,6 @@ Pratiquer le TDD **en mob programming**, avec des contraintes tirées au hasard 
 </div>
 
 <Exercise path="01.tdd-inside-out/exercices/xtrem-tdd" />
-
----
-
-<span class="kicker">Pratique concrète · Kata</span>
-
-# L'algorithme de Luhn
-
-Avant d'interroger la banque, détecter qu'un numéro de carte a été **mal saisi**.
-
-1. En partant de la droite, **doubler un chiffre sur deux** (à partir de l'avant-dernier)
-2. Si le double dépasse 9, lui **soustraire 9**
-3. **Additionner** tous les chiffres
-4. Le numéro est valide si la somme est un **multiple de 10**
-
-Avant de coder : construisez votre **Example Mapping**. Puis laissez les tests faire émerger l'algorithme, avec une **double boucle**.
-
-<Exercise path="01.tdd-inside-out/exercices/luhn" />
 
 ---
 
