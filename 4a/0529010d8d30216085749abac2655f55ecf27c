@@ -1,0 +1,48 @@
+04.tdd-ia/exercices/eid-tdd-guardian/README.md
+  s_01e0ebae5f3848::t_e4bbc0f48bf738 1-113
+04.tdd-ia/exercices/eid-tdd-guardian/csharp/EID.Tests/EID.Tests.csproj
+  s_01e0ebae5f3848::t_21194bd43771b1 1-27
+04.tdd-ia/exercices/eid-tdd-guardian/csharp/EID.Tests/EIDTests.cs
+  s_01e0ebae5f3848::t_d9d87bf9077505 1-13
+04.tdd-ia/exercices/eid-tdd-guardian/csharp/EID.slnx
+  s_01e0ebae5f3848::t_d0454e52a52bfe 1-4
+04.tdd-ia/exercices/eid-tdd-guardian/csharp/EID/EID.csproj
+  s_01e0ebae5f3848::t_bede136c9cb6e4 1-17
+04.tdd-ia/exercices/eid-tdd-guardian/java/pom.xml
+  s_01e0ebae5f3848::t_c718d3a7687741 1-59
+04.tdd-ia/exercices/eid-tdd-guardian/java/src/test/java/eid/EIDTests.java
+  s_01e0ebae5f3848::t_0ae7ea3c7a65ed 1-14
+04.tdd-ia/exercices/eid-tdd-guardian/ts/jest.config.js
+  s_01e0ebae5f3848::t_ba44225917def6 1-6
+04.tdd-ia/exercices/eid-tdd-guardian/ts/package-lock.json
+  s_01e0ebae5f3848::t_5e3bb56238878a 1-1435
+04.tdd-ia/exercices/eid-tdd-guardian/ts/package.json
+  s_01e0ebae5f3848::t_a1f776c02ee013 1-14
+04.tdd-ia/exercices/eid-tdd-guardian/ts/tests/eid.spec.ts
+  s_01e0ebae5f3848::t_cc59e23ff12661 1-7
+04.tdd-ia/exercices/eid-tdd-guardian/ts/tsconfig.json
+  s_01e0ebae5f3848::t_82e72ff52cef29 1-12
+04.tdd-ia/slides.md
+  s_01e0ebae5f3848::t_1c4f04c93f8694 1-295
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4a0529010d8d30216085749abac2655f55ecf27c",
+  "prompts": {},
+  "humans": {
+    "h_0a88d9aba8622a": {
+      "author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_01e0ebae5f3848": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "026bb5d5-8fdd-4dee-83f2-6fb33a6813de",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
