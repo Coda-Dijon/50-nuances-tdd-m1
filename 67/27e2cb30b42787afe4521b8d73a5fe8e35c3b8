@@ -1,0 +1,24 @@
+02.tcr/slides.md
+  s_01e0ebae5f3848::t_02196b31a12152 1-178
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6727e2cb30b42787afe4521b8d73a5fe8e35c3b8",
+  "prompts": {},
+  "humans": {
+    "h_0a88d9aba8622a": {
+      "author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_01e0ebae5f3848": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "026bb5d5-8fdd-4dee-83f2-6fb33a6813de",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
