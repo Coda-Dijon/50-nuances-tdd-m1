@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RockPaperScissorsGame.Tests/RockPaperScissorsGame.Tests.csproj" />
+  <Project Path="RockPaperScissorsGame/RockPaperScissorsGame.csproj" />
+</Solution>
