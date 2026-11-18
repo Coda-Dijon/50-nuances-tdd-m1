@@ -1,0 +1,14 @@
+config:
+    git:
+        auto-push: false
+        commit-failures: false
+        polling-period: 2s
+    mob-timer:
+        duration: 5m0s
+    tcr:
+        language: ""
+        toolchain: ""
+        trace: none
+        variant: relaxed
+    vcs:
+        name: git
