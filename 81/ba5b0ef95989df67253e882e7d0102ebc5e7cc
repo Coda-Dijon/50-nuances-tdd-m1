@@ -1,0 +1,26 @@
+03.bdd/exercices/rock-paper-scissors/challenge.md
+  s_01e0ebae5f3848::t_0e96c9e80efcda 1-19
+03.bdd/slides.md
+  s_01e0ebae5f3848::t_47a012f249c501 1-492
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "81ba5b0ef95989df67253e882e7d0102ebc5e7cc",
+  "prompts": {},
+  "humans": {
+    "h_0a88d9aba8622a": {
+      "author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_01e0ebae5f3848": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "026bb5d5-8fdd-4dee-83f2-6fb33a6813de",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
