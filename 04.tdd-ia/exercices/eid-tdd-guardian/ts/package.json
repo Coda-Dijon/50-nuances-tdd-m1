@@ -1,0 +1,14 @@
+{
+  "name": "eid",
+  "version": "1.0.0",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "vitest": "^2.0.0"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  }
+}

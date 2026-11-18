@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EID.Tests/EID.Tests.csproj" />
+  <Project Path="EID/EID.csproj" />
+</Solution>
