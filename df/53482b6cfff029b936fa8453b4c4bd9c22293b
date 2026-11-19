@@ -1,0 +1,26 @@
+05.tdd-outside-in/exercices/bank-kata/README.md
+  s_01e0ebae5f3848::t_87bffb08c33700 1-541
+05.tdd-outside-in/slides.md
+  s_01e0ebae5f3848::t_ec7449486ce5f1 1-242
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "df53482b6cfff029b936fa8453b4c4bd9c22293b",
+  "prompts": {},
+  "humans": {
+    "h_0a88d9aba8622a": {
+      "author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_01e0ebae5f3848": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "026bb5d5-8fdd-4dee-83f2-6fb33a6813de",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
