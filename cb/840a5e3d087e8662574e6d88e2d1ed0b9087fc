@@ -1,0 +1,40 @@
+04.tdd-ia/exercices/eid-tdd-guardian/PROMPT.md
+  s_01e0ebae5f3848::t_4644a9dcccdd2d 1-21
+04.tdd-ia/slides.md
+  s_01e0ebae5f3848::t_a0ca5e816f1ba6 13,15,17-19,21-26,28-44
+06.type-driven/exercices/eid/README.md
+  s_7157a09940560b::t_051064a5b6cf22 1-76
+06.type-driven/exercices/eid/solution/step-by-step.md
+  s_01e0ebae5f3848::t_9b28b04bf0bdda 1-763
+06.type-driven/slides.md
+  s_01e0ebae5f3848::t_5dd11211e567d2 1-405
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cb840a5e3d087e8662574e6d88e2d1ed0b9087fc",
+  "prompts": {},
+  "humans": {
+    "h_0a88d9aba8622a": {
+      "author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_01e0ebae5f3848": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "026bb5d5-8fdd-4dee-83f2-6fb33a6813de",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    },
+    "s_7157a09940560b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fea1fd3e-7937-4053-b356-5f6aaa750375",
+        "model": "unknown"
+      },
+      "human_author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
