@@ -10,18 +10,38 @@ L'IA accélère la frappe, pas la réflexion.
 
 ---
 
-<span class="kicker">Connexion · réflexion individuelle · 3'</span>
+<span class="kicker">Connexion · en binôme</span>
 
-# "Implémente la validation de l'EID en TDD."
+# Un prompt, et l'agent fait le reste ?
 
-Tu tapes ça dans un agent IA (Claude Code, Copilot, Cursor...). Note tes prédictions :
+```text
+Dans ce dépôt Java (Maven, JUnit 5, AssertJ), implémente en TDD la validation
+d'un EID (Elf Identifier) : un identifiant de 8 chiffres.
 
-- Combien de tests va-t-il écrire avant d'écrire du code ?
-- Combien de commits obtiendras-tu ? De quelle taille ?
-- Les tests seront-ils écrits **avant** le code... ou en même temps ?
-- Qu'est-ce que tu serais capable de relire sérieusement dans ce qu'il produit ?
+- Position 1 : sexe, 1 (Sloubi), 2 (Gagna) ou 3 (Catact)
+- Positions 2-3 : les deux derniers chiffres de l'année de naissance, de 00 à 99
+- Positions 4-6 : numéro de série (ordre de naissance dans l'année), de 001 à 999
+- Positions 7-8 : clé de contrôle = 97 - (nombre formé par les 6 premiers chiffres % 97),
+  de 01 à 97
+- Exemple valide : 19800767
 
-> Compare avec ton binôme de l'évaluation : votre historique git ressemblait-il à ça ?
+Le cycle TDD doit être lisible dans git : un commit par étape, préfixé red:, green: ou refactor:.
+```
+
+<div class="cols">
+<div>
+
+Lancez ce prompt **tel quel** dans le CLI (Claude Code, Copilot CLI...), puis observez ce que l'agent produit.
+
+</div>
+<div>
+
+- Combien de tests avant le premier code ? Combien de commits, de quelle taille ?
+- Les tests sont-ils écrits **avant** le code... ou en même temps ?
+- Qu'êtes-vous capables de relire sérieusement ?
+
+</div>
+</div>
 
 ---
 
